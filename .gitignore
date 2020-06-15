@@ -1,1 +1,4 @@
 *.zip
+Testing_codes/
+Thingspeak_Rpi/__pycache__/
+Thingspeak_Rpi/Testing_codes/
